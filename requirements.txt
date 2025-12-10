@@ -1,14 +1,14 @@
 # Core Data Science Libraries
-pandas>=2.0.0
-numpy>=1.24.0
-openpyxl>=3.1.0
+pandas
+numpy
+openpyxl
 
 # Machine Learning Libraries
-scikit-learn>=1.3.0
-xgboost>=2.0.0
+scikit-learn
+xgboost
 
 # Visualization
-matplotlib>=3.7.0
+matplotlib
 
 # Optional: For better performance
-joblib>=1.3.0
+joblib
